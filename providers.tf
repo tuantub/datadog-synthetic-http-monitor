@@ -8,4 +8,4 @@ terraform {
   }
 }
 
-provider "datadog" {}
+#provider "datadog" {}
